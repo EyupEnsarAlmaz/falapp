@@ -1,6 +1,6 @@
-# falapp
+# fal App
 
-A new Flutter project.
+This is my new project in flutter.
 
 ## Getting Started
 
